@@ -9,14 +9,10 @@ A comprehensive financial analysis project using Python/Jupyter to analyze custo
 
 ---
 
-## 📸 Project Screenshots
+## 📸 Project images
 
-| Dashboard Overview | Transaction Analysis |
-|:------------------:|:--------------------:|
-| ![Dashboard](images/screenshot1.png) | ![Analysis](images/screenshot2.png) |
-| *Main dashboard showing key metrics* | *Transaction pattern visualization* |
-
-> **Note:** Add your screenshots to the `images/` folder and update the paths above.
+ <img width="859" height="650" alt="newplot" src="https://github.com/user-attachments/assets/19b64dd3-680c-4ffb-910c-2078f3d09019" />   <img width="859" height="700" alt="newplot1" src="https://github.com/user-attachments/assets/2cdf753b-3496-4f3d-b112-bd03ae876ce0" /> 
+ 
 
 ---
 
